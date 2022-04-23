@@ -1,0 +1,52 @@
+body {
+    background-color: #ffffff;
+    color: #403F48;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+}
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 65%;
+}
+h2 {
+    color: #403F48;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+h2.sub-body {
+    color: #417597;
+    font-family: 'Sacramento', sans-serif;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 25%;
+}
+.sub-head {
+    color: #637a77;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+.sub-link {
+    color: #8a6658;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+p.descript  {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+    line-height: 150%;
+}
+.lists {
+    background-color: #596C68;
+    color: #ececec;
+    font-size: 17px;
+    line-height: 150%;
+}
+img {
+    width: 800px;
+    height: auto;
+}
